@@ -11,8 +11,6 @@ Aplicación móvil hecha con **Ionic + Angular + Capacitor** que permite **tomar
 
 ## Capturas de pantalla
 
-> Reemplaza estas imágenes por tus capturas reales (carpeta `docs/screenshots/`).
-
 | Galería vacía | Tomando la foto | Galería con fotos |
 |:---:|:---:|:---:|
 | ![Galería vacía](docs/screenshots/01-vacia.png) | ![Cámara](docs/screenshots/02-camara.png) | ![Galería con fotos](docs/screenshots/03-galeria.png) |
