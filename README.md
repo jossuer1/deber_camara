@@ -1,4 +1,4 @@
-# 📷 Foto Android — Cámara de fotos con Ionic
+# Foto Android — Cámara de fotos con Ionic
 
 Aplicación móvil hecha con **Ionic + Angular + Capacitor** que permite **tomar fotos, guardarlas y eliminarlas**. Cada foto se guarda en el almacenamiento de la app (para administrarla dentro de la galería de la aplicación) y además se copia en la **galería del teléfono**.
 
